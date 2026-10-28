@@ -8,6 +8,8 @@ div{
     align-items: center;
     border: solid black 2px;
     width: 500px;
+    margin: auto;
+    background-color: brown;
 }
 
 p{
