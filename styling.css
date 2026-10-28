@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    margin: 0;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black 2px;
+}
+
+p{
+    font-size: 1rem;
+    color: blueviolet;
+    text-align: center;
+}
